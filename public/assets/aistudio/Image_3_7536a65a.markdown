@@ -1,0 +1,248 @@
+---
+name: PetCare CRM
+colors:
+  surface: '#f7f9fb'
+  surface-dim: '#d8dadc'
+  surface-bright: '#f7f9fb'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f2f4f6'
+  surface-container: '#eceef0'
+  surface-container-high: '#e6e8ea'
+  surface-container-highest: '#e0e3e5'
+  on-surface: '#191c1e'
+  on-surface-variant: '#3c4a42'
+  inverse-surface: '#2d3133'
+  inverse-on-surface: '#eff1f3'
+  outline: '#6c7a71'
+  outline-variant: '#bbcabf'
+  surface-tint: '#006c49'
+  primary: '#006c49'
+  on-primary: '#ffffff'
+  primary-container: '#10b981'
+  on-primary-container: '#00422b'
+  inverse-primary: '#4edea3'
+  secondary: '#00668a'
+  on-secondary: '#ffffff'
+  secondary-container: '#40c2fd'
+  on-secondary-container: '#004d6a'
+  tertiary: '#855300'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#e29100'
+  on-tertiary-container: '#523200'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#6ffbbe'
+  primary-fixed-dim: '#4edea3'
+  on-primary-fixed: '#002113'
+  on-primary-fixed-variant: '#005236'
+  secondary-fixed: '#c4e7ff'
+  secondary-fixed-dim: '#7bd0ff'
+  on-secondary-fixed: '#001e2c'
+  on-secondary-fixed-variant: '#004c69'
+  tertiary-fixed: '#ffddb8'
+  tertiary-fixed-dim: '#ffb95f'
+  on-tertiary-fixed: '#2a1700'
+  on-tertiary-fixed-variant: '#653e00'
+  background: '#f7f9fb'
+  on-background: '#191c1e'
+  surface-variant: '#e0e3e5'
+typography:
+  display-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 36px
+    fontWeight: '700'
+    lineHeight: 44px
+    letterSpacing: -0.02em
+  headline-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 30px
+    fontWeight: '600'
+    lineHeight: 38px
+    letterSpacing: -0.015em
+  headline-lg-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 30px
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 18px
+    fontWeight: '600'
+    lineHeight: 26px
+  title-md:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '600'
+    lineHeight: 24px
+  body-lg:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 24px
+  body-md:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+  body-sm:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '400'
+    lineHeight: 18px
+  label-lg:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '500'
+    lineHeight: 20px
+  label-md:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: 0.01em
+  label-sm:
+    fontFamily: Inter
+    fontSize: 11px
+    fontWeight: '600'
+    lineHeight: 14px
+    letterSpacing: 0.02em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.25rem
+  margin: 1.5rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2rem
+---
+
+## Brand & Style
+
+O PetCare CRM combina a empatia e o afeto do universo pet com o rigor operacional, precisÃ£o clÃ­nica e ergonomia de um software de gestÃ£o diÃ¡ria. O tom visual Ã© caloroso, sereno, moderno e estritamente minimalista, reduzindo a fadiga cognitiva de veterinÃ¡rios, recepcionistas e esteticistas que lidam com fluxos contÃ­nuos de triagem, consultas e agendamentos.
+
+A direÃ§Ã£o estÃ©tica funde **Minimalismo Funcional** e **Toques TÃ¡cteis Suaves**:
+- **Clareza ClÃ­nica e Acolhimento:** O espaÃ§o em branco Ã© generoso e intencional, permitindo leitura veloz de prontuÃ¡rios e horÃ¡rios sem sobrecarga visual.
+- **Micro-interaÃ§Ãµes Delicadas:** TransiÃ§Ãµes suaves em estados de foco, hover e modais, transmitindo calma e controle em ambientes dinÃ¢micos de atendimento.
+- **SensaÃ§Ã£o Visual:** SuperfÃ­cies iluminadas, limpas e acolhedoras por meio de neutros levemente aquecidos, distanciando a interface da frieza hospitalar tradicional sem perder autoridade tÃ©cnica.
+
+## Colors
+
+A paleta de cores Ã© estruturada para equilibrar saÃºde animal, confianÃ§a clÃ­nica e legibilidade funcional diÃ¡ria:
+
+- **Primary (`#10B981` - Menta / Esmeralda Suave):** Utilizado em botÃµes de aÃ§Ã£o principal, estados de sucesso, confirmaÃ§Ã£o de horÃ¡rios e elementos de destaque primÃ¡rios. Transmite vitalidade, recuperaÃ§Ã£o e cuidado.
+- **Secondary (`#38BDF8` - Azul Pastel / CÃ©u Sereno):** Reservado para aÃ§Ãµes complementares, tags de pacientes felinos/caninos, filtros de busca ativos e vÃ­nculos informativos.
+- **Tertiary (`#F59E0B` - Ã‚mbar Suave):** Utilizado pontualmente para alertas, atenÃ§Ãµes em fichas de vacinaÃ§Ã£o e pendÃªncias de check-in.
+- **Neutros Funcionais:**
+  - `Surface Base`: `#FBFBF9` (neutro quente que reduz o brilho ofuscante em telas de balcÃ£o).
+  - `Surface Elevated / Cards`: `#FFFFFF`.
+  - `Bordas e Divisores`: `#F1F5F9` (Slate-100) para linhas estruturais internas e `#E2E8F0` (Slate-200) para contornos de cartÃµes e inputs.
+  - `Tipografia Principal`: `#0F172A` (Slate-900) para mÃ¡xima taxa de contraste WCAG AAA.
+  - `Tipografia SecundÃ¡ria`: `#64748B` (Slate-500) para rÃ³tulos, metadados e timestamps.
+
+### Badges SemÃ¢nticos de Status
+- **Agendado:** Fundo `#EFF6FF` (Blue-50), borda `#BFDBFE`, texto `#1D4ED8` (Blue-700).
+- **Em Atendimento:** Fundo `#ECFDF5` (Emerald-50), borda `#A7F3D0`, texto `#047857` (Emerald-700), acompanhado de micro-indicador pulsante sutil.
+- **ConcluÃ­do:** Fundo `#F8FAFC` (Slate-50), borda `#E2E8F0`, texto `#475569` (Slate-600).
+- **AtenÃ§Ã£o / EmergÃªncia:** Fundo `#FEF2F2` (Red-50), borda `#FECACA`, texto `#B91C1C` (Red-700).
+
+## Typography
+
+A hierarquia tipogrÃ¡fica utiliza o emparelhamento estratÃ©gico entre **Plus Jakarta Sans** e **Inter**:
+
+- **Plus Jakarta Sans (Headlines, MÃ©tricas e TÃ­tulos Principais):** Suas formas geomÃ©tricas e terminais sutilmente acolhedores conferem modernidade e empatia sem perder a postura profissional.
+- **Inter (Corpo de Texto, Tabelas, Fichas ClÃ­nicas e Badges):** Empregada pela neutralidade tÃ©cnica superior, excelente renderizaÃ§Ã£o de nÃºmeros e dados tabulares (tabular figures ativas para prontuÃ¡rios, valores financeiros e pesagens).
+- **Escala Responsiva:** Headings acima de 24px colapsam proporcionalmente no mobile via tokens dedicados para manter tÃ­tulos visÃ­veis em telas compactas de tablets clÃ­nicos ou celulares de recepÃ§Ã£o.
+
+## Layout & Spacing
+
+O sistema adota uma **Grade Fluida Estruturada** baseada em um mÃ³dulo de 8px (com sub-mÃ³dulo de 4px para alinhamento fino de chips e Ã­cones):
+
+- **Grid Desktop (HLŒ
+NŠŠˆLˆÛÛ[˜\ÈÛÛHİ]\˜HKŒ\™[H
+Œ
+HHX\™Ú[˜]\˜[Hœ™[H
+Ìœ
+KˆZ[°êZ\È]\˜Z\ÈH›Ûpè\š[ÈHYÙ[™HÜ\˜[HÛÛH\™İ\˜Hš^HHÍŒHŒ[œ]X[ÈHš\İX[^˜péğèÛÈš[˜Ú\[HYÜÈÙH^[™HH›Ü›XH›ZYK‚‹H
+Š‘ÜšYX›]
+ÍHLNN\
+NŠŠˆÛÛ[˜\Ëİ]\˜H\™[H
+Mœ
+KX\™Ù[HHK\™[H
+
+KˆZ[°êZ\È]\˜Z\ÈÙHÛÛ™\[H[HØ]™]\È\Û^˜[\È
+˜]Ù\œÊK‚‹H
+Š‘ÜšY[Øš[H
+Í
+NŠŠˆÛÛ[˜\ËX\™Ù[HH\™[H
+Mœ
+HHİ]\˜HÍ\™[H
+Lœ
+KˆÛÛpî™È[\[YÈ™\XØ[Y[HÛÛH›ØÛÈ[Hš\İX[^˜péğèÛÈÙ\]Y[˜ÚX[HØ\™ÈHYÙ[™[Y[Ë‚‹H
+Š–›Û˜\ÈHÜ]YHÛ0ë[šXÛÎŠŠˆ[[Y[ÜÈXÚ[Û°è]™Z\ÈX[0ê›H[\˜Hpë[š[XHH\˜H˜XÚ[]\ˆÈÜ]YH°è\YÈ[HX›]È[ÛYÜÈ[H˜[˜ØY\ÈHÛÛœİ[0ìÜš[Ë‚‚ˆÈÈ[]˜][Ûˆ	ˆ\‚H›Ù[™YYH›È]Ø\™HÔ“H\ÚXK\ÙH[H
+Š›Ü™\ÈİX]™\ÈH˜Z^ÈÛÛ˜\İH
+Û]KLLÈÛ]KLŒ
+JŠˆ\ÜÛØÚXY\ÈH
+Š”ÛÛXœ˜\ÈÛ˜[^˜Y\È\\™Y\Ø\ÊŠ‹X[[™È[H\ÜXİÈ[\ËYÚpê›šXÛÈH\™Z˜YÎ‚‚‹H
+Š“°ë]™[
+[›ÈH[™ÊNŠŠˆ[™È˜\ÙHÑ‘‘XÙ[HÛÛXœ˜HİH™[]›Ë‚‹H
+Š“°ë]™[H
+Ø\0íY\ÈHX™[\ÊNŠŠˆİ\\™°ëXÚYHÑ‘‘‘‘‘˜ÛÛHÛÛÜ››È\š[Y]˜[š[›ÈH\[HÑL‘NŒHÛÛXœ˜H[˜[]™Nˆ›Ş\ÚYİÎˆ\Ü™Ø˜JMKŒË‹ŒÊK\œL\™Ø˜JMKŒË‹ŒŠX‚‹H
+Š“°ë]™[ˆ
+›ÜİÛœËY[\È›]X[\ÈHÛÛ\ÊNŠŠˆ[™ÈÑ‘‘‘‘‘˜›Ü™HĞĞ‘QLXÛÛXœ˜HY\ØHH[Ø[˜ÙHpêY[Îˆ›Ş\ÚYİÎˆLœLœ™Ø˜JMKŒË‹ŒŠKœœLœ™Ø˜JMKŒË‹Œ
+X‚‹H
+Š“°ë]™[È
+[ÙZ\ÈH˜]Ù\œÈH›Ûpè\š[ÊNŠŠˆ[™ÈÑ‘‘‘‘‘˜ÛÛXœ˜HH\İ\]YHÛÛH˜XÚÙ›ÜÛÛH]™H\Ù›Ü]YH
+˜XÚÙ›ÜYš[\ˆ›\Š
+NÈ˜XÚÙÜ›İ[™XÛÛÜˆ™Ø˜JMKŒË‹ŒJX
+Nˆ›Ş\ÚYİÎˆŒ\M\™Ø˜JMKŒË‹Œ
+KLMœ™Ø˜JMKŒË‹Œ
+X‚‚ˆÈÈÚ\\Â‚“ÈÚ\İ[XH][^˜HH\ØØ[H
+Š”›İ[™Y
+›İ[™Y™\ÜÎˆ˜
+JŠ‹\]Z[Xœ˜[™ÈHÙ[ÛY]šXHÛ0ë[šXØHÛÛHÈY™]È]‚‚‹H
+Š”Y°èÛÈ˜\ÙH
+\™[XÈ
+NŠŠˆØ[\ÜÈH[œ]ØZ^\ÈHÙ[péğèÛË›İ0íY\ÈY°èÛÈHğê[[\È[\˜]]˜\Ë‚‹H
+ŠÛÛZ[™\ˆÜ˜[™H
+›İ[™Y[ØH\™[XÈMœ
+NŠŠˆØ\0íY\ÈHXÚY[\Ë›ØÛÜÈHYÙ[™[Y[È˜H[Y[[™HHØ\™ÈH˜]\˜[Y[Ë‚‹H
+ŠÛÛZ[™\œÈH°ë]™[İ\\š[Üˆ
+›İ[™Y^HK\™[XÈ
+NŠŠˆ[ÙZ\ÈH][™[Y[Ëpè[ÙÛÜÈH[˜[[™\ÙHHZ[°êZ\ÈH™\İ[[ÈÈXK‚‹H
+Š”[È[H›İ[™YŠŠˆ˜YÙ\ÈHİ]\Ë]˜]\™\ÈH]Ëİ]Ü™\ÈHYÜÈHØ]YÛÜšXH°è\YH
+^ˆØ[š[›È‹•˜XÚ[˜péğèÛÈ‹˜[šÈHÜØHŠK‚‚ˆÈÈÛÛ\Û™[Â‚ˆÈÈÈ›İ0íY\Â‹H
+Š”š[pè\š[ÎŠŠˆ[™ÈÌLNX^Èœ˜[˜ÛÈ[HX™[[ØØ[ÜÈ›İ[™Y[Y
+
+KY[™ÈÜš^›Û[ÜXÙK[YH™\XØ[ÜXÙK\ÛXˆİ™\ˆÛÛH˜[œÚpéğèÛÈ\˜HÌNMX‚‹H
+Š”ÙXİ[™0è\š[ÎŠŠˆ[™Èœ˜[˜ÛËÛÛÜ››ÈH\[HÑL‘NŒ^ÈÌŒMÌXˆİ™\ˆÛÛH[™ÈÑQØH›Ü™HĞĞ‘QLX‚‹H
+Š‘ÚÜİÈpéğèÛÈ°è\YNŠŠˆÙ[H[™È™[HÛÛÜ››Ë^ÈÍÍ˜İ™\ˆÛÛH[™ÈÑŒQQXH^ÈÌŒMÌX‚‚ˆÈÈÈİ]\È˜YÙ\Â‹H[[Y[ÜÈ[H›Ü›XHH0ë[[H
+›Ü™\‹\˜Y]\ÎˆNNN\
+KY[™ÈÜš^›Û[ÜXÙK\ÛXY[™È™\XØ[ÜXÙK^Ø\ÙÜ˜YšXHX™[\ÛXÛÛH]\”ÜXÚ[™ÎˆŒ™[X‚‹H\™\Ù[[H[HÛÈHœ[™XØYÜˆHİ]\È[[šYÈ0è\Ü]Y\™HÈ^Ë‚‹HÛÜ™\È\İš][Y[HX\XY\È[ÜÈÚÙ[œÈÙ[pè›XÛÜÈHYÙ[™YË[H][™[Y[ËÛÛ˜ÛpëYÈH][°éğèÛË‚‚ˆÈÈÈØ[\ÜÈH[˜YH
+[œ]šY[ÊB‹H[\˜H˜\ÙHH
+[H[Øš[KİX›]
+K[™Èœ˜[˜ÛË›Ü™HH\[HÑL‘NŒØ[ÜÈ›İ[™Y[Y‚‹H
+Š‘›ØÛÎŠŠˆ›Ü™HÌLNXÛÛH[È^\››ÈH›ØÛÈİ][ˆ›Ş\ÚYİÎˆÜ™Ø˜JM‹NKLKŒMJX‚‹H°ìİ[ÜÈ[HX™[[Y˜HÛÜˆÍÍMMXÜÚXÚ[Û˜YÜÈXÚ[XHÈØ[\ÈÛÛH\ÜpéØ[Y[ÈHÜXÙK^Ø‚‹H0ãXÛÛ™\È[YÜ˜YÜÈ
+\ØØHH]Ü‹\ÛË\Ü0êXÚYJH[[šYÜÈ0è\Ü]Y\™H[HÎMLĞ‚‚ˆÈÈÈØ\0íY\ÈHXÚY[HÈ][™[Y[Â‹H[™Èœ˜[˜ÛËØ[ÜÈ›İ[™Y[Ø
+Mœ
+K›Ü™HH\[HÑŒQQX‚‹H\İ]\˜H[\›˜NˆÜÈÛÛH]˜]\ˆH\Ü0êXÚYKÙ›İÈÈ]›ÛYHÈXÚY[H[H]K[Y›ÛYHÈ]ÜˆH[Y›Û™H[H›ÙK\ÛX
+ÍÍ˜
+KHÈ˜YÙHHİ]\È[[šYÈ[ÈØ[Èİ\\š[Üˆ\™Z]Ë‚‹H[šH]š\ğìÜšXHÜš^›Û[İ][[HÑQØÙ\\˜[™ÈÈÜ°è\š[ÈHÛÛœİ[HHÈ™]\š[°è\š[È™\ÜÛœğè]™[‚‚ˆÈÈÈ\İ\ÈHX™[\ÈHYÙ[™B‹HØX™péØ[ÜÈHX™[HÛÛH[™ÈÑQØ^È[HX™[[YÛÛHØZ^H[Hİ][HÛÜˆÍÍ˜‚‹H[š\ÈÛÛH[\˜HHMœÙ\\˜YÜˆ[™™\š[Üˆ[HÑŒQQXİ™\ˆÛÛH[™ÈİX]™HÑQØ‚‹HYÜ\[Y[È[\Ü˜[š\İX[Y[HÛXYÈÛÛH[š\È™\XØZ\È[H™\™HY[H›ÜÈ›ØÛÜÈÈÜ°è\š[È]X[‚‚ˆÈÈÈÚXÚØ›Ş\ÈHÙ[]Ü™\ÈÛ0ë[šXÛÜÂ‹HÚXÚØ›ŞHNNÛÛHØ[ÜÈ›İ[™Y\ÛX
+
+K›Ü™H[HĞĞ‘QLXˆ]X[™ÈX\˜ØYÎˆ[™ÈÌLNX›Ü™HÌLNXHÚXÚÈ[Hœ˜[˜ÛË‚‹H˜Y[È]ÛœÈÛÛHpè›Y]›ÈHN\˜HÙ[péğèÛÈ^Û\Ú]˜HH\Ü0êXÚYKÜH
+KËÑÊHİHØ[HH][™[Y[Ë

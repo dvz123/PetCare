@@ -1,0 +1,6 @@
+{
+  "name": "PetCare CRM",
+  "description": "Painel completo de gestão clínica, agendamentos, consultas, estética e vacinas para clínicas veterinárias e pet shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
